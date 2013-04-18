@@ -22,7 +22,7 @@ playtime = 70 # Percentage of a song that must be played before
               #  play count is incremented
 mintime = 25 # Minimum length of a track for it
              #  to be considered a song (in seconds)
-flood_delay = 288*60 # Minutes to wait before adding the same song again
+flood_delay = 12*60 # Minutes to wait before adding the same song again
 tries = 10 # Retry connecting this many times
 ## /Config
 
